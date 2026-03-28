@@ -173,19 +173,19 @@ Entries in this log confirm active communication between Wazuh and the VirusTota
 ## Results & Screenshots
 
 ### Active Agents on Wazuh Dashboard
-![Active Agents](screenshots/Picture1.png)
+![Active Agents](Picture1.png)
 > Both Ubuntu and Windows agents showing as **active** with 100% agent coverage.
 
 ### Integrity Monitoring Dashboard
-![FIM Dashboard](screenshots/Picture2.png)
+![FIM Dashboard](Picture2.png)
 > Real-time FIM alerts showing file modification events from the Windows agent.
 
 ### Security Events Log
-![Security Events](screenshots/Picture3.png)
+![Security Events](Picture3.png)
 > Security events filtered to show relevant rule IDs, excluding AppArmor noise (rule 52002).
 
 ### VirusTotal API Integration Confirmed
-![VirusTotal Logs](screenshots/Picture4.png)
+![VirusTotal Logs](Picture4.png)
 > Terminal output confirming active VirusTotal API communication via integration logs.
 
 ---
